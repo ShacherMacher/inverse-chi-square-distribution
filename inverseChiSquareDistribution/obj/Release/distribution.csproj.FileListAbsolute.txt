@@ -1,0 +1,63 @@
+C:\Users\Alex Sokol\Documents\Visual Studio 2013\Projects\distribution\distribution\bin\Release\distribution.exe.config
+C:\Users\Alex Sokol\Documents\Visual Studio 2013\Projects\distribution\distribution\bin\Release\distribution.exe
+C:\Users\Alex Sokol\Documents\Visual Studio 2013\Projects\distribution\distribution\bin\Release\distribution.pdb
+C:\Users\Alex Sokol\Documents\Visual Studio 2013\Projects\distribution\distribution\obj\Release\distribution.Form1.resources
+C:\Users\Alex Sokol\Documents\Visual Studio 2013\Projects\distribution\distribution\obj\Release\distribution.FormAbout.resources
+C:\Users\Alex Sokol\Documents\Visual Studio 2013\Projects\distribution\distribution\obj\Release\distribution.FormDistribution.resources
+C:\Users\Alex Sokol\Documents\Visual Studio 2013\Projects\distribution\distribution\obj\Release\distribution.FormResult.resources
+C:\Users\Alex Sokol\Documents\Visual Studio 2013\Projects\distribution\distribution\obj\Release\distribution.Properties.Resources.resources
+C:\Users\Alex Sokol\Documents\Visual Studio 2013\Projects\distribution\distribution\obj\Release\distribution.csproj.GenerateResource.Cache
+C:\Users\Alex Sokol\Documents\Visual Studio 2013\Projects\distribution\distribution\obj\Release\distribution.exe
+C:\Users\Alex Sokol\Documents\Visual Studio 2013\Projects\distribution\distribution\obj\Release\distribution.pdb
+C:\Users\Alex Sokol\Documents\Visual Studio 2013\Projects\distribution\distribution\obj\Release\distribution.csprojResolveAssemblyReference.cache
+g:\distribution\distribution\bin\Release\distribution.exe.config
+g:\distribution\distribution\obj\Release\distribution.exe
+g:\distribution\distribution\obj\Release\distribution.pdb
+e:\МОИ ФАЙЛЫ\УНИВЕР\4 курс\стохастика\курсач\distribution_MB\distribution\bin\Release\distribution.exe.config
+e:\МОИ ФАЙЛЫ\УНИВЕР\4 курс\стохастика\курсач\distribution_MB\distribution\obj\Release\distribution.exe
+e:\МОИ ФАЙЛЫ\УНИВЕР\4 курс\стохастика\курсач\distribution_MB\distribution\obj\Release\distribution.pdb
+e:\МОИ ФАЙЛЫ\УНИВЕР\4 курс\стохастика\курсач\distribution_MB\distribution\bin\Release\distribution.exe
+e:\МОИ ФАЙЛЫ\УНИВЕР\4 курс\стохастика\курсач\distribution_MB\distribution\bin\Release\distribution.pdb
+e:\МОИ ФАЙЛЫ\УНИВЕР\4 курс\стохастика\курсач\distribution_MB\distribution\obj\Release\distribution.csprojResolveAssemblyReference.cache
+e:\МОИ ФАЙЛЫ\УНИВЕР\4 курс\стохастика\курсач\distribution_MB\distribution\obj\Release\distribution.Form1.resources
+e:\МОИ ФАЙЛЫ\УНИВЕР\4 курс\стохастика\курсач\distribution_MB\distribution\obj\Release\distribution.FormAbout.resources
+e:\МОИ ФАЙЛЫ\УНИВЕР\4 курс\стохастика\курсач\distribution_MB\distribution\obj\Release\distribution.FormDistribution.resources
+e:\МОИ ФАЙЛЫ\УНИВЕР\4 курс\стохастика\курсач\distribution_MB\distribution\obj\Release\distribution.FormResult.resources
+e:\МОИ ФАЙЛЫ\УНИВЕР\4 курс\стохастика\курсач\distribution_MB\distribution\obj\Release\distribution.Properties.Resources.resources
+e:\МОИ ФАЙЛЫ\УНИВЕР\4 курс\стохастика\курсач\distribution_MB\distribution\obj\Release\distribution.csproj.GenerateResource.Cache
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\bin\Release\distribution.exe.config
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\obj\Release\distribution.exe
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\obj\Release\distribution.pdb
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\bin\Release\distribution.exe
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\bin\Release\distribution.pdb
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\obj\Release\distribution.csprojResolveAssemblyReference.cache
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\obj\Release\distribution.Form1.resources
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\obj\Release\distribution.FormAbout.resources
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\obj\Release\distribution.FormDistribution.resources
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\obj\Release\distribution.FormResult.resources
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\obj\Release\distribution.Properties.Resources.resources
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\obj\Release\distribution.csproj.GenerateResource.Cache
+C:\Users\Xiaomi\Desktop\курсач\distribution\bin\Release\distribution.exe.config
+C:\Users\Xiaomi\Desktop\курсач\distribution\bin\Release\distribution.exe
+C:\Users\Xiaomi\Desktop\курсач\distribution\bin\Release\distribution.pdb
+C:\Users\Xiaomi\Desktop\курсач\distribution\obj\Release\distribution.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\курсач\distribution\obj\Release\distribution.Form1.resources
+C:\Users\Xiaomi\Desktop\курсач\distribution\obj\Release\distribution.FormAbout.resources
+C:\Users\Xiaomi\Desktop\курсач\distribution\obj\Release\distribution.FormDistribution.resources
+C:\Users\Xiaomi\Desktop\курсач\distribution\obj\Release\distribution.Properties.Resources.resources
+C:\Users\Xiaomi\Desktop\курсач\distribution\obj\Release\distribution.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\курсач\distribution\obj\Release\distribution.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\курсач\distribution\obj\Release\distribution.exe
+C:\Users\Xiaomi\Desktop\курсач\distribution\obj\Release\distribution.pdb
+C:\Users\Xiaomi\Desktop\Beta distribution\distribution\obj\Release\distribution.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\Beta distribution\distribution\obj\Release\distribution.Form1.resources
+C:\Users\Xiaomi\Desktop\Beta distribution\distribution\obj\Release\distribution.FormAbout.resources
+C:\Users\Xiaomi\Desktop\Beta distribution\distribution\obj\Release\distribution.FormDistribution.resources
+C:\Users\Xiaomi\Desktop\Beta distribution\distribution\obj\Release\distribution.Properties.Resources.resources
+C:\Users\Xiaomi\Desktop\Beta distribution\distribution\obj\Release\distribution.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\Beta distribution\distribution\obj\Release\distribution.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\Beta distribution\distribution\obj\Release\distribution.exe
+C:\Users\Xiaomi\Desktop\Beta distribution\distribution\obj\Release\distribution.pdb
+C:\Users\Xiaomi\Desktop\Beta distribution\distribution\bin\Release\distribution.exe.config
+C:\Users\Xiaomi\Desktop\Beta distribution\distribution\bin\Release\distribution.exe
+C:\Users\Xiaomi\Desktop\Beta distribution\distribution\bin\Release\distribution.pdb

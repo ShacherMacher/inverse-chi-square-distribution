@@ -1,0 +1,75 @@
+c:\users\alex sokol\documents\visual studio 2013\Projects\distribution\distribution\bin\Debug\distribution.exe.config
+c:\users\alex sokol\documents\visual studio 2013\Projects\distribution\distribution\bin\Debug\distribution.exe
+c:\users\alex sokol\documents\visual studio 2013\Projects\distribution\distribution\bin\Debug\distribution.pdb
+c:\users\alex sokol\documents\visual studio 2013\Projects\distribution\distribution\obj\Debug\distribution.csprojResolveAssemblyReference.cache
+c:\users\alex sokol\documents\visual studio 2013\Projects\distribution\distribution\obj\Debug\distribution.Form1.resources
+c:\users\alex sokol\documents\visual studio 2013\Projects\distribution\distribution\obj\Debug\distribution.Properties.Resources.resources
+c:\users\alex sokol\documents\visual studio 2013\Projects\distribution\distribution\obj\Debug\distribution.csproj.GenerateResource.Cache
+c:\users\alex sokol\documents\visual studio 2013\Projects\distribution\distribution\obj\Debug\distribution.exe
+c:\users\alex sokol\documents\visual studio 2013\Projects\distribution\distribution\obj\Debug\distribution.pdb
+C:\Users\Alex Sokol\Documents\Visual Studio 2013\Projects\distribution\distribution\obj\Debug\distribution.FormAbout.resources
+C:\Users\Alex Sokol\Documents\Visual Studio 2013\Projects\distribution\distribution\obj\Debug\distribution.FormDistribution.resources
+C:\Users\Alex Sokol\Documents\Visual Studio 2013\Projects\distribution\distribution\obj\Debug\distribution.FormResult.resources
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\bin\Debug\distribution.exe.config
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\obj\Debug\distribution.exe
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\obj\Debug\distribution.pdb
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\bin\Debug\distribution.exe
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\bin\Debug\distribution.pdb
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\obj\Debug\distribution.csprojResolveAssemblyReference.cache
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\obj\Debug\distribution.Form1.resources
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\obj\Debug\distribution.FormAbout.resources
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\obj\Debug\distribution.FormDistribution.resources
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\obj\Debug\distribution.FormResult.resources
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\obj\Debug\distribution.Properties.Resources.resources
+F:\ВСЕ О КУРСОВЫХ\distribution_MB\distribution\obj\Debug\distribution.csproj.GenerateResource.Cache
+C:\Users\Savhe\Desktop\Beta distribution\distribution\obj\Debug\distribution.csproj.AssemblyReference.cache
+C:\Users\Savhe\Desktop\Beta distribution\distribution\obj\Debug\distribution.exe
+C:\Users\Savhe\Desktop\Beta distribution\distribution\obj\Debug\distribution.pdb
+C:\Users\Savhe\Desktop\Beta distribution\distribution\bin\Debug\distribution.exe.config
+C:\Users\Savhe\Desktop\Beta distribution\distribution\bin\Debug\distribution.exe
+C:\Users\Savhe\Desktop\Beta distribution\distribution\bin\Debug\distribution.pdb
+C:\Users\Savhe\Desktop\Beta distribution\distribution\obj\Debug\distribution.Form1.resources
+C:\Users\Savhe\Desktop\Beta distribution\distribution\obj\Debug\distribution.FormAbout.resources
+C:\Users\Savhe\Desktop\Beta distribution\distribution\obj\Debug\distribution.FormDistribution.resources
+C:\Users\Savhe\Desktop\Beta distribution\distribution\obj\Debug\distribution.Properties.Resources.resources
+C:\Users\Savhe\Desktop\Beta distribution\distribution\obj\Debug\distribution.csproj.GenerateResource.cache
+C:\Users\Savhe\Desktop\Beta distribution\distribution\obj\Debug\distribution.csproj.CoreCompileInputs.cache
+C:\Users\Savhe\Desktop\Beta distribution\distribution\bin\Debug\MathNet.Numerics.dll
+C:\Users\Savhe\Desktop\Beta distribution\distribution\bin\Debug\System.ValueTuple.dll
+C:\Users\Savhe\Desktop\Beta distribution\distribution\bin\Debug\MathNet.Numerics.xml
+C:\Users\Savhe\Desktop\Beta distribution\distribution\bin\Debug\System.ValueTuple.xml
+C:\Users\Savhe\Desktop\Beta distribution\distribution\obj\Debug\distribution.csproj.CopyComplete
+C:\Users\Savhe\Desktop\11\Beta distribution\distribution\bin\Debug\distribution.exe.config
+C:\Users\Savhe\Desktop\11\Beta distribution\distribution\bin\Debug\distribution.exe
+C:\Users\Savhe\Desktop\11\Beta distribution\distribution\bin\Debug\distribution.pdb
+C:\Users\Savhe\Desktop\11\Beta distribution\distribution\bin\Debug\MathNet.Numerics.dll
+C:\Users\Savhe\Desktop\11\Beta distribution\distribution\bin\Debug\System.ValueTuple.dll
+C:\Users\Savhe\Desktop\11\Beta distribution\distribution\bin\Debug\MathNet.Numerics.xml
+C:\Users\Savhe\Desktop\11\Beta distribution\distribution\bin\Debug\System.ValueTuple.xml
+C:\Users\Savhe\Desktop\11\Beta distribution\distribution\obj\Debug\distribution.csproj.AssemblyReference.cache
+C:\Users\Savhe\Desktop\11\Beta distribution\distribution\obj\Debug\distribution.Form1.resources
+C:\Users\Savhe\Desktop\11\Beta distribution\distribution\obj\Debug\distribution.FormAbout.resources
+C:\Users\Savhe\Desktop\11\Beta distribution\distribution\obj\Debug\distribution.FormDistribution.resources
+C:\Users\Savhe\Desktop\11\Beta distribution\distribution\obj\Debug\distribution.Properties.Resources.resources
+C:\Users\Savhe\Desktop\11\Beta distribution\distribution\obj\Debug\distribution.csproj.GenerateResource.cache
+C:\Users\Savhe\Desktop\11\Beta distribution\distribution\obj\Debug\distribution.csproj.CoreCompileInputs.cache
+C:\Users\Savhe\Desktop\11\Beta distribution\distribution\obj\Debug\distribution.csproj.CopyComplete
+C:\Users\Savhe\Desktop\11\Beta distribution\distribution\obj\Debug\distribution.exe
+C:\Users\Savhe\Desktop\11\Beta distribution\distribution\obj\Debug\distribution.pdb
+C:\Users\Savhe\Desktop\11\InverseChiSquare\distribution\bin\Debug\distribution.exe.config
+C:\Users\Savhe\Desktop\11\InverseChiSquare\distribution\bin\Debug\distribution.exe
+C:\Users\Savhe\Desktop\11\InverseChiSquare\distribution\bin\Debug\distribution.pdb
+C:\Users\Savhe\Desktop\11\InverseChiSquare\distribution\bin\Debug\MathNet.Numerics.dll
+C:\Users\Savhe\Desktop\11\InverseChiSquare\distribution\bin\Debug\System.ValueTuple.dll
+C:\Users\Savhe\Desktop\11\InverseChiSquare\distribution\bin\Debug\MathNet.Numerics.xml
+C:\Users\Savhe\Desktop\11\InverseChiSquare\distribution\bin\Debug\System.ValueTuple.xml
+C:\Users\Savhe\Desktop\11\InverseChiSquare\distribution\obj\Debug\distribution.csproj.AssemblyReference.cache
+C:\Users\Savhe\Desktop\11\InverseChiSquare\distribution\obj\Debug\distribution.Form1.resources
+C:\Users\Savhe\Desktop\11\InverseChiSquare\distribution\obj\Debug\distribution.FormAbout.resources
+C:\Users\Savhe\Desktop\11\InverseChiSquare\distribution\obj\Debug\distribution.FormDistribution.resources
+C:\Users\Savhe\Desktop\11\InverseChiSquare\distribution\obj\Debug\distribution.Properties.Resources.resources
+C:\Users\Savhe\Desktop\11\InverseChiSquare\distribution\obj\Debug\distribution.csproj.GenerateResource.cache
+C:\Users\Savhe\Desktop\11\InverseChiSquare\distribution\obj\Debug\distribution.csproj.CoreCompileInputs.cache
+C:\Users\Savhe\Desktop\11\InverseChiSquare\distribution\obj\Debug\distribution.csproj.CopyComplete
+C:\Users\Savhe\Desktop\11\InverseChiSquare\distribution\obj\Debug\distribution.exe
+C:\Users\Savhe\Desktop\11\InverseChiSquare\distribution\obj\Debug\distribution.pdb

@@ -1,0 +1,17 @@
+C:\Users\Savhe\Desktop\11\InverseChiSquare\inverseChiSquareDistribution\obj\Debug\inverseChiSquareDistribution.csproj.AssemblyReference.cache
+C:\Users\Savhe\Desktop\11\InverseChiSquare\inverseChiSquareDistribution\obj\Debug\distribution.Form1.resources
+C:\Users\Savhe\Desktop\11\InverseChiSquare\inverseChiSquareDistribution\obj\Debug\distribution.FormAbout.resources
+C:\Users\Savhe\Desktop\11\InverseChiSquare\inverseChiSquareDistribution\obj\Debug\distribution.FormDistribution.resources
+C:\Users\Savhe\Desktop\11\InverseChiSquare\inverseChiSquareDistribution\obj\Debug\distribution.Properties.Resources.resources
+C:\Users\Savhe\Desktop\11\InverseChiSquare\inverseChiSquareDistribution\obj\Debug\inverseChiSquareDistribution.csproj.GenerateResource.cache
+C:\Users\Savhe\Desktop\11\InverseChiSquare\inverseChiSquareDistribution\obj\Debug\inverseChiSquareDistribution.csproj.CoreCompileInputs.cache
+C:\Users\Savhe\Desktop\11\InverseChiSquare\inverseChiSquareDistribution\bin\Debug\inverseChiSquareDistribution.exe.config
+C:\Users\Savhe\Desktop\11\InverseChiSquare\inverseChiSquareDistribution\bin\Debug\inverseChiSquareDistribution.exe
+C:\Users\Savhe\Desktop\11\InverseChiSquare\inverseChiSquareDistribution\bin\Debug\inverseChiSquareDistribution.pdb
+C:\Users\Savhe\Desktop\11\InverseChiSquare\inverseChiSquareDistribution\bin\Debug\MathNet.Numerics.dll
+C:\Users\Savhe\Desktop\11\InverseChiSquare\inverseChiSquareDistribution\bin\Debug\System.ValueTuple.dll
+C:\Users\Savhe\Desktop\11\InverseChiSquare\inverseChiSquareDistribution\bin\Debug\MathNet.Numerics.xml
+C:\Users\Savhe\Desktop\11\InverseChiSquare\inverseChiSquareDistribution\bin\Debug\System.ValueTuple.xml
+C:\Users\Savhe\Desktop\11\InverseChiSquare\inverseChiSquareDistribution\obj\Debug\inverseChiSquareDistribution.csproj.CopyComplete
+C:\Users\Savhe\Desktop\11\InverseChiSquare\inverseChiSquareDistribution\obj\Debug\inverseChiSquareDistribution.exe
+C:\Users\Savhe\Desktop\11\InverseChiSquare\inverseChiSquareDistribution\obj\Debug\inverseChiSquareDistribution.pdb
